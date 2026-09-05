@@ -1,4 +1,4 @@
-# ✨ Hi there, I'm André Araújo! ✨
+# Hi there, I'm André Araújo!
 
 - 🎓 Estudante de Sistemas de Informação na Universidade Unifacisa, em Campina Grande - PB.
 - 💻 Interessado por programação, tecnologia e desenvolvimento.
